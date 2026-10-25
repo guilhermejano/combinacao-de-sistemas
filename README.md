@@ -1,3 +1,3 @@
 missão-sistemas/
-/---README.md
-/--- diagrama.md
+/---README.md  #docummento da missão 
+/--- diagrama.md  #diagrama em Mermaid
